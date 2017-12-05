@@ -4,11 +4,11 @@ A simple Vagrant LAMP setup running PHP7.
 
 ## What's inside?
 
-- Ubuntu 14.04.3 LTS (Trusty Tahr)
+- Ubuntu 16.04.3 LTS (xenial)
 - Vim, Git, Curl, etc.
 - Apache
 - PHP7 with some extensions
-- MySQL 5.6
+- MySQL 5.7
 - Node.js with NPM
 - RabbitMQ
 - Redis
