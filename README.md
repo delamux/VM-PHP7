@@ -25,4 +25,7 @@ A simple Vagrant LAMP setup running PHP7.
 192.168.100.100 phpmyadmin.dev
 ````
 - Navigate to ``http://app.dev/`` 
-- Navigate to ``http://phpmyadmin.dev/`` (both username and password are 'root')
+- Navigate to ``http://phpmyadmin.dev/`` (both **username** and **password** are '**root**')
+
+* You can change the script in bootstrap.sh, Run for update with scripts
+`` vagrant provision``
